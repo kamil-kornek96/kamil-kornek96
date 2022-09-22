@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamil Kornek
 - 👀 I’m interested in automotive, programmin, games
-- 🌱 I’m currently learning Python + (Flask), JavaScript, PostgreSQL, C#
+- 🌱 I’m currently learning C#, ASP.NET, REST API, JavaScript (React)
 - 📫 How to reach me: kamil.kornek96@gmail.com
 
 <!---
