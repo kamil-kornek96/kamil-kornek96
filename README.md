@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Kamil Kornek
-- 👀 I’m interested in automotive, programming, games
-- 🌱 I’m currently learning C#, ASP.NET, REST API, JavaScript (React)
-- 📫 How to reach me: kamil.kornek96@gmail.com
-
-<!---
-kamil-kornek96/kamil-kornek96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Greetings! I'm Kamil Kornek
+👀 Passionate about automobiles, programming, and gaming
+🚀 Embarking on a journey to master the realms of C#, ASP.NET, crafting REST APIs, and conquering Angular
+📫 Reach out to me at: kamil.kornek96@gmail.com
+💻 A full-stack programmer on a mission to turn ideas into elegant solutions
